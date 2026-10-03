@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+results/*.csv
+results/*.png
+.idea/
+.vscode/
+.DS_Store
